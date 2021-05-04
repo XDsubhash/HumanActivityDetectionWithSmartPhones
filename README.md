@@ -74,7 +74,7 @@ o	kurtosis(): kurtosis of the frequency domain signal<br>
  into static and Dynamic Activities using visualization techniques.<br>
 <br>
 <br>
-2. Activity Exploration <br>
+2. Activity Separation <br>
     2.1 Are The Activities Separable? <br>
     2.2 How Good Are The Activities Separable? <br>
 <br>
