@@ -60,7 +60,10 @@ o	meanFreq(): Weighted average of the frequency components to obtain a mean freq
 o	skewness(): skewness of the frequency domain signal<br>
 o	kurtosis(): kurtosis of the frequency domain signal<br>
 
-
+## Dataset <br>
+https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones <br>
+<br>
+<br>
 
 ## Goal
 
@@ -74,7 +77,7 @@ o	kurtosis(): kurtosis of the frequency domain signal<br>
  into static and Dynamic Activities using visualization techniques.<br>
 <br>
 <br>
-2. Activity Separation <br>
+2. Activity exploration <br>
     2.1 Are The Activities Separable? <br>
     2.2 How Good Are The Activities Separable? <br>
 <br>
